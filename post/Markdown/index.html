@@ -1,0 +1,472 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Markdown——高效率标记语言常用教程 | 辰逸的博客</title>
+<meta name="description" content="灿若星辰，逸群之才" />
+<link rel="shortcut icon" href="https://chenyijssj.top/favicon.ico">
+<link rel="stylesheet" href="https://chenyijssj.top/styles/main.css">
+
+<script src="https://chenyijssj.top/media/js/jquery.min.js"></script>
+<script src="https://chenyijssj.top/media/js/masonry.pkgd.min.js"></script>
+<script src="https://chenyijssj.top/media/js/aos.js"></script>
+<script src="https://chenyijssj.top/media/js/pace.min.js"></script>
+<script src="https://chenyijssj.top/media/js/view-image.min.js"></script>
+<script src="https://chenyijssj.top/media/js/jquery.magnific-popup.min.js"></script>
+<script src="https://chenyijssj.top/media/js/functions.js"></script>
+    <meta name="referrer" content="never">
+    <meta name="description" content="在学习Gridea的时候，我也被迫了解了Markdown这一标志性语言，发现了一些文档里没有的东西和注意事项，所以写一篇教程型文章，希望对大家有帮助
+
+多数人可能都习惯于使用微软的Office Word来写东西，它的功能确实强大，有丰富的排..." />
+    <meta name="keywords" content="编程" />
+    <script src="https://chenyijssj.top/media/js/waterfall.min.js"></script>
+    <script src="https://chenyijssj.top/media/js/prism.min.js"></script>
+  </head>
+  <body>
+            <header id="header" class="grid-container">
+        <!-- start: .menu-wrapper -->
+        <div class="menu-mobile"> 
+          <i class="fa fa-reorder"></i>
+        </div>
+        <div class="menu-wrapper">
+          <div class="">
+            <div class="logo">
+              <a href="https://chenyijssj.top"><img src="\media\images\custom-headerLogo.jpg" alt=""></a>
+            </div>
+            <!-- start: .main-nav -->
+
+            <nav class="main-nav grid-container grid-parent">
+              <ul id="menu-header" class="menu gradient-effect">
+                <li class=""><a href="https://chenyijssj.top" class="menu">首页</a></li>
+                
+                  <li class="" >
+                    <a href="/post/about" class="menu">
+                      关于
+                    </a>
+                  </li>
+                
+                  <li class="" >
+                    <a href="https://bento.me/chenyijssj" class="menu">
+                      电子名片
+                    </a>
+                  </li>
+                
+                  <li class="" >
+                    <a href="/post/shuo-shuo" class="menu">
+                      说说
+                    </a>
+                  </li>
+                
+                  <li class="" >
+                    <a href="/tags" class="menu">
+                      标签
+                    </a>
+                  </li>
+                
+                  <li class="" >
+                    <a href="/archives" class="menu">
+                      归档
+                    </a>
+                  </li>
+                
+                  <li class="" >
+                    <a href="/post/MC-download" class="menu">
+                      MC基岩版下载
+                    </a>
+                  </li>
+                
+                  <li class="" >
+                    <a href="/post/Sponsorship" class="menu">
+                      赞助支持
+                    </a>
+                  </li>
+                
+                <li class="search-menu-item hide-on-mobile hide-on-tablet"><a href="#search-lightbox" class="lightbox mfp-inline"><i class="fa fa-search-line"></i></a></li>
+              </ul>
+            </nav>
+            <a href="#search-lightbox" class="lightbox epcl-search-button mfp-inline hide-on-tablet hide-on-desktop"><i class="fa fa-search-line"></i></a>
+            <!-- end: .main-nav -->
+            <div class="clear"></div>
+            <div class="border hide-on-tablet hide-on-mobile"></div>
+          </div>    
+          <div class="clear"></div>
+        </div>
+        <!-- end: .menu-wrapper -->
+        <div class="clear"></div>
+      </header>
+      <div class="hide-on-mobile hide-on-tablet hide-on-desktop">
+        <div id="search-lightbox" class="grid-container grid-small grid-parent mfp-hide">
+          <div class="search-wrapper section">
+            <form id="gridea-search-form" data-update="1755155811648" action="/search/index.html" class="search-form" _lpchecked="1">
+              <input type="text" name="q" id="s" value="" class="search-field" placeholder="搜点啥..." aria-label="搜点啥..." required="">
+              <button type="submit" class="submit" aria-label="Submit">
+                <i class="fa fa-search-line"></i>
+              </button>
+            </form>
+          </div>
+        </div>
+      </div>
+
+      <main id="single" class="main grid-container fullcover no-sidebar aos-init aos-animate" data-aos="fade">
+
+        <div class="center content">
+          <div class="featured-image cover" style="background-image: url('https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/03/20250322072539100.jpg');">
+            <div class="meta top"> 
+              <time class="meta-info" style="float:left;" datetime="2025-03-22"><i class="fa fa-calendar"></i><span class="lately">5 个月前</span></time>
+              
+              <a href="https://chenyijssj.top/post/Markdown/#comments" class="comments meta-info" title="">
+                <i class="fa fa-comment remixicon"></i><span class="comment-count valine-comment-count" data-xid="/Markdown/"> </span>
+              </a>
+              <span id="/Markdown/" class="leancloud_visitors views-counter meta-info" title=""><i class="fa fa-leancloud remixicon"></i><span class="leancloud-visitors-count"></span></span>
+              
+            </div>
+            <div class="info">
+              <div class="tags ">
+                
+                      <a href="https://chenyijssj.top/tag/HYFqXxVyPja/" class="ctag ctag-0 ctag-HYFqXxVyPja" aria-label="">编程</a>
+                    
+              </div>
+              <h1 class="title ularge white bold">Markdown——高效率标记语言常用教程</h1>
+            </div>
+          </div>
+        </div>  
+
+        <div class="epcl-page-wrapper">
+          <div class="left-content grid-70 np-mobile">
+            <article class="main-article post">
+              <section class="post-content">
+                <div class="text">
+                  <p>在学习Gridea的时候，我也被迫了解了Markdown这一标志性语言，发现了一些文档里没有的东西和注意事项，所以写一篇教程型文章，希望对大家有帮助</p>
+<!-- more -->
+<p>多数人可能都习惯于使用微软的Office Word来写东西，它的功能确实强大，有丰富的排版功能。但是它也有很多的缺点：</p>
+<ol>
+<li>
+<p>Office Word是商业付费软件，你电脑中装的是正版吗？</p>
+</li>
+<li>
+<p>Word文档非常臃肿，一个空白文档也要占25K左右。</p>
+</li>
+<li>
+<p>兼容性不好，你有打不开docx格式文档的经历吗？</p>
+</li>
+<li>
+<p>安装文件大、启动慢…</p>
+</li>
+</ol>
+<p>把Word文档发给一个没有安装Office Word人会很尴尬，Linux上虽然有Open Office，Windows也可以使用免费的WPS Word，但多少会有显示和兼容上的问题。</p>
+<p>“鱼”和“熊掌”怎么兼得呢？</p>
+<p>大名鼎鼎的「互联网之子」亚伦·斯沃茨（封面图片）和美国著名博客作者约翰·格鲁伯（John Gruber）出手帮我们解决了这个痛点，他们合作发明了Markdown。</p>
+<p>Aaron在自己博客上写这样一段话：</p>
+<blockquote>
+<p>For months I’ve been working with John Gruber on a new project. The idea was to make writing simple web pages, and especially weblog entries, as easy as writing an email, by allowing you to use much the same syntax and converting it automatically into HTML.</p>
+</blockquote>
+<p>他说正在与John Gruber合作一个新项目，想法是让人人都能写简单的网页，把写博客这件事变得像写邮件一样简单，你可以用一些简单的标记控制文字的版式，并自动转化成HTML页面。</p>
+<p>这个就是Markdown的由来。</p>
+<h2 id="markdown难学吗">Markdown难学吗？</h2>
+<p>首先，Markdown 既不是工具也不是程序语言，而是一种轻量级的「标记语言」，千万不要被「标记」、「语言」吓到，Markdown的语法十分简单，常用的标记符号不超过十个，用于日常写作记录绰绰有余，不到半小时就能完全掌握。</p>
+<p>就是这十个不到的标记符号，却能让人优雅地沉浸式记录，专注内容而不是纠结排版，达到「心中无尘，码字入神」的境界。</p>
+<p>Markdown写作是一种纯文本写作，你打开Windows的记事本就可以写，或者其他任何一款编辑器都可以。当然你也可以选择一些专业的Markdown编辑器，这样可以实时预览排版效果。</p>
+<h2 id="markdown常用基础语法">Markdown常用基础语法</h2>
+<p>先想想我们一般写作时候需要用到什么样的排版？</p>
+<p>无非就是标题、引用、强调（加粗、斜体、下划线）、插入链接、插入图片、列表（有序和无序列表），甚至连表格都很少用。</p>
+<h2 id="标题语法">标题语法</h2>
+<p>Markdown一共支持6个级别大小的标题（对应于HTML语法里的h1~h6），写法很简单，就是在文字前空一格加上#号就行，几个#号就是几级标题，大小由大到小。</p>
+<h2 id="引用语法">引用语法</h2>
+<p>如果你想引用一段文字，那就使用大于号&gt;</p>
+<h2 id="标记语法">标记语法</h2>
+<h3 id="粗体">粗体</h3>
+<p>如果你想加粗一段文字，只需要在文字前后加个两个*号</p>
+<h3 id="斜体">斜体</h3>
+<p>如果你想让一段文字倾斜，只需要在文字前后加一个*</p>
+<h3 id="插入链接">插入链接</h3>
+<p>如果你想把一段文字加上链接指向到某个网址，就把文字用中括号围起来[]，然后加上一个小括号()，小括号里填上网址即可。</p>
+<h3 id="插入图片">插入图片</h3>
+<p>插入图片的语法和插入链接很像，就是在前面加了一个叹号!，然后在小括号里加URL（注意：叹号是英文叹号）</p>
+<h2 id="列表">列表</h2>
+<p>列表分为有序列表和无序列表，什么是有序列表呢？就是1、2、3顺序排开。</p>
+<h3 id="有序列表">有序列表</h3>
+<p>语法如下，注意：数字后加点. 再空一格写内容。<br>
+<code>1. 把冰箱门打开</code><br>
+<code>2. 把大象放进去</code><br>
+<code>3. 关上冰箱门</code></p>
+<h3 id="无序列表">无序列表</h3>
+<p>无序列表只需要在文字前面加上减号-就行。（星号*或加号+也可以，看个人喜好，我比较喜欢用减号）<br>
+<code>- 把冰箱门打开</code><br>
+<code>- 把大象放进去</code><br>
+<code>- 关上冰箱门</code></p>
+<h3 id="代码">代码</h3>
+<p>代码需要将文本放在两个`之间（前后都要加）</p>
+<h2 id="其他标记">其他标记</h2>
+<h3 id="换行">换行</h3>
+<p>当你写大段文本分段的时候，只是回车换行是不行的，有些解释器出来的效果会让文字连在一起。<br>
+段落与段落之间需要强制空一行才能分段。</p>
+<h3 id="分割线">分割线</h3>
+<p>你可以在一行中使用三个以上的星号*或减号-来创建分割线（注意：行内不能有其他东西）</p>
+<h2 id="ps当你使用井号定义标题的时候记得在井号和文本之间加一个空格不然就会出现以下情况">PS：当你使用井号定义标题的时候，记得在井号和文本之间加一个空格，不然就会出现以下情况</h2>
+<p>#我是错误示范</p>
+<h2 id="更多">更多</h2>
+<p>如果想要深入了解或者想找一些不常用的语法，可以查阅<a href="https://markdown.com.cn/basic-syntax/">Markdown官网</a></p>
+<h2 id="图床的问题如何解决">图床的问题如何解决？</h2>
+<p>当你用上Markdown开始写作后，你可能会怀念Word的一个功能：粘贴插入图片。</p>
+<p>不少Markdown编辑器都是没有这个功能的，你需要把图片上传到某个地方然后用Markdown语法引用显示。</p>
+<p>这里推荐一个国内图床叫小存一下，是国内杭州软柠科技公司的产品，特点：</p>
+<ol>
+<li>提升您的网站资源显示速度</li>
+<li>数据下载更加快</li>
+<li>采用阿里云OSS保证速度及数据安全</li>
+<li>完全公益且免费[这是重点!!!]<br>
+官网：<a href="https://pan.devskyr.com/">小存一下</a></li>
+</ol>
+<p>如果你使用Mac电脑的话，推荐使用另一个神器，叫做“<a href="https://toolinbox.net/iPic/">图床神器iPic</a>”<br>
+这个APP会实时监测剪贴板里的图片，点击需要上传的图片后会自动生成Markdown引用代码，直接粘贴到编辑器里即可。</p>
+<h2 id="用markdown写微信公众号文章">用Markdown写微信公众号文章</h2>
+<p>目前微信公众号的编辑器是不支持Markdown语法的，那怎么办呢？</p>
+<p>有一款叫Markdown Here的插件可以解决这个问题（支持Chrome、Firefox、Safari）。</p>
+<p>官方网站：http://markdown-here.com/</p>
+<p>Markdown Here 的用法非常简单，直接在编辑器中用Markdown语法写完文章或粘贴进去写好的文章，然后鼠标右键选择「Markdown转换」，或者点击 Markdown Here 插件图标转换。（键盘默认快捷键是Ctrl + Alt + M）</p>
+<p>这时候你会发现文章排版全好了，amazing！</p>
+<p>Markdown Here默认使用的是Github风格的排版，如果你懂CSS的话甚至可以自己定义。</p>
+<p>Markdown Here可以用在任何支持可视化编辑器的地方，用来写电子邮件、写知乎专栏都可以。</p>
+<h2 id="总结">总结</h2>
+<p>Markdown是英年早逝的互联网天才Aaron带给我们的礼物，让大量人可以专心于内容的表达，减少排版上的费心费神。</p>
+<p>如果你还没用过，还等什么呢？</p>
+<blockquote>
+<h5 id="ps本文原创转载请标明出处">PS：本文原创，转载请标明出处</h5>
+</blockquote>
+
+                </div>
+                <div class="clear"></div>
+              </section>
+            </article>
+            <div class="clear"></div>
+
+            <section class="related section">
+              
+              <article class="prev grid-50 tablet-grid-50 grid-parent">
+                <div class="thumb cover lazy loaded" style="background-image: url('https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/04/20250426115857114.png');"></div>
+                 <a href="https://chenyijssj.top/post/grdea-synchronized-mistake/" class="full-link"></a>
+                 <div class="info">
+                  <time datetime="2025-04-19">2025-04-19</time>
+                  <h4 class="title white no-margin">Gridea同步失败问题</h4>
+                </div>
+                 <span class="epcl-button red">
+                  <img src="https://chenyijssj.top/media/images/left-arrow.svg" width="15" alt="Left Arrow">
+                </span>
+                <div class="overlay"></div>
+              </article>
+              
+              
+              <article class="next grid-50 tablet-grid-50 grid-parent">
+                <div class="thumb cover lazy loaded" style="background-image: url('https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/03/20250322072012500.png');"></div>
+                 <a href="https://chenyijssj.top/post/lejianyun/" class="full-link"></a>
+                 <div class="info">
+                  <time datetime="2025-03-21">2025-03-21</time>
+                  <h4 class="title white no-margin">乐简云&amp;朝阳云</h4>
+                </div>
+                 <span class="epcl-button red">
+                  <img src="https://chenyijssj.top/media/images/right-arrow.svg" width="15" alt="Left Arrow">
+                </span>
+                <div class="overlay"></div>
+              </article>
+              
+
+                <div class="clear"></div>
+            </section>
+
+              <div class="clear"></div>
+              
+            
+              <div id="comments" class="bg-white hosted ">
+                <p>请到客户端“主题--自定义配置--valine”中填入ID和KEY</p>
+              </div>
+              <div class="clear"></div>
+            
+
+            </div>
+          </div>
+      </main>
+
+          <footer id="footer" class="grid-container">
+        <div class="widgets row gradient-effect">
+            <div class="default-sidebar border-effect">
+              <div class="grid-33 tablet-grid-50 mobile-grid-100">
+                <section id="tag_cloud-2" class="widget widget_epcl_posts_thumbs underline-effect">
+                  <h4 class="widget-title title white bordered">最新文章</h4>
+                  
+                  
+                  <article class="item post-0 post type-post status-publish format-standard has-post-thumbnail hentry">
+                    <a href="https://chenyijssj.top/post/MC-download/" class="thumb hover-effect">
+                      <span class="fullimage cover" style="display:block;border-radius:50%;background-image: url('https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/03/20250321144108762.png');"></span>
+                    </a>
+                    <div class="info gradient-effect">
+                      <time datetime="2025-08-13">2025-08-13</time>
+                      <h4 class="title usmall">
+                        <a href="https://chenyijssj.top/post/MC-download/">MC基岩版（国际版）全版本下载</a>
+                      </h4>
+                    </div>
+                    <div class="clear"></div>
+                  </article>
+                  
+                  
+                  
+                  <article class="item post-1 post type-post status-publish format-standard has-post-thumbnail hentry">
+                    <a href="https://chenyijssj.top/post/ting-geng-tong-zhi/" class="thumb hover-effect">
+                      <span class="fullimage cover" style="display:block;border-radius:50%;background-image: url('https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/03/20250322065829124.jpg');"></span>
+                    </a>
+                    <div class="info gradient-effect">
+                      <time datetime="2025-08-13">2025-08-13</time>
+                      <h4 class="title usmall">
+                        <a href="https://chenyijssj.top/post/ting-geng-tong-zhi/">停更通知</a>
+                      </h4>
+                    </div>
+                    <div class="clear"></div>
+                  </article>
+                  
+                  
+                  
+                  <article class="item post-2 post type-post status-publish format-standard has-post-thumbnail hentry">
+                    <a href="https://chenyijssj.top/post/cuiey-tuan-dui-xiang-mu-zhuang-tai-geng-xin-2025-nian-8-yue-7-ri/" class="thumb hover-effect">
+                      <span class="fullimage cover" style="display:block;border-radius:50%;background-image: url('https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/08/20250801035817740.png');"></span>
+                    </a>
+                    <div class="info gradient-effect">
+                      <time datetime="2025-08-07">2025-08-07</time>
+                      <h4 class="title usmall">
+                        <a href="https://chenyijssj.top/post/cuiey-tuan-dui-xiang-mu-zhuang-tai-geng-xin-2025-nian-8-yue-7-ri/">Cuiey 团队项目状态更新 - 2025年8月7日</a>
+                      </h4>
+                    </div>
+                    <div class="clear"></div>
+                  </article>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <div class="clear"></div>
+                </section>
+              </div>
+
+              <div class="grid-33 tablet-grid-50 mobile-grid-100">
+                <section id="tag_cloud-2" class="widget widget_tag_cloud underline-effect">
+                  <h4 class="widget-title title white bordered">标签云</h4>
+                  <div class="tagcloud">
+                    
+                      <a href="https://chenyijssj.top/tag/IuvWs_wHXfL/" class="ctag ctag-0 ctag-IuvWs_wHXfL" aria-label="">辰逸</a>
+                    
+                      <a href="https://chenyijssj.top/tag/2NieaGRIJr/" class="ctag ctag-1 ctag-2NieaGRIJr" aria-label="">Cuiey</a>
+                    
+                      <a href="https://chenyijssj.top/tag/7ddZBw9Gyl/" class="ctag ctag-2 ctag-7ddZBw9Gyl" aria-label="">网站推荐</a>
+                    
+                      <a href="https://chenyijssj.top/tag/l_nr0DWf4Q/" class="ctag ctag-3 ctag-l_nr0DWf4Q" aria-label="">Counter-Strike</a>
+                    
+                      <a href="https://chenyijssj.top/tag/7yOR12TTWqs/" class="ctag ctag-4 ctag-7yOR12TTWqs" aria-label="">乐简云</a>
+                    
+                      <a href="https://chenyijssj.top/tag/uF88DYgBib/" class="ctag ctag-5 ctag-uF88DYgBib" aria-label="">HLTV重要新闻转载</a>
+                    
+                      <a href="https://chenyijssj.top/tag/2RbV-DonOx/" class="ctag ctag-6 ctag-2RbV-DonOx" aria-label="">软件分享</a>
+                    
+                      <a href="https://chenyijssj.top/tag/oyMsMljMoT/" class="ctag ctag-7 ctag-oyMsMljMoT" aria-label="">Gridea</a>
+                    
+                      <a href="https://chenyijssj.top/tag/HYFqXxVyPja/" class="ctag ctag-8 ctag-HYFqXxVyPja" aria-label="">编程</a>
+                    
+                      <a href="https://chenyijssj.top/tag/F94OxpmR9s4/" class="ctag ctag-9 ctag-F94OxpmR9s4" aria-label="">REmcbbs</a>
+                    
+                  </div>
+                  <div class="clear"></div>
+                </section>
+              </div>
+
+              <div class="grid-33 tablet-grid-50 mobile-grid-100">
+                <section id="epcl_about-2" class="widget widget_epcl_about underline-effect">
+                  <h4 class="widget-title title white bordered">关于我</h4>
+                  <div class="avatar">
+                    <a href="" class="translate-effect thumb"><span class="fullimage cover" style="background-image: url(https://chenyijssj.top/images/avatar.png);"></span></a>
+                  </div>
+                  <div class="info">
+                    <h4 class="title small author-name gradient-effect no-margin"><a href="">辰逸的博客</a></h4>
+                    <p class="founder">灿若星辰，逸群之才</p>
+                    <div class="social">
+                      
+                          
+                            <a href="https://github.com/chenyijssj" class="translate-effect" target="_blank"><i class="fa fa-github"></i></a>
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                    </div> 
+                  </div>
+                  <div class="clear"></div>
+                  </section>
+              </div>
+
+            </div>
+            <div class="clear"></div>
+        </div>
+
+        <div class="logo">
+          <a href="https://chenyijssj.top"><img src="\media\images\custom-footerLogo.jpg" alt=""></a>
+        </div>
+        <p class="published border-effect">
+          ©2019 共 23 篇文章
+          <br/>
+          Theme <a href="https://gridea.dev/" target="_blank">「breek」</a> Powered by <a href="https://gridea.dev/" target="_blank">「Gridea」</a>
+        </p>
+        
+        <a href="javascript:void(0)" id="back-to-top" class="epcl-button dark" style="display:none">
+          <i class="fa fa-arrow"></i>
+        </a>
+    </footer>
+    
+    <div class="clear"></div>
+
+        
+
+      
+    <script src="https://chenyijssj.top/media/js/functions-post.js"></script>
+
+    </div>
+    <!-- end: #wrapper -->
+  </body>
+</html>

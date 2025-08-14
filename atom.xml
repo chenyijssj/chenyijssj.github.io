@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://chenyijssj.top</id>
+    <title>辰逸的博客</title>
+    <updated>2025-08-14T07:16:54.250Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://chenyijssj.top"/>
+    <link rel="self" href="https://chenyijssj.top/atom.xml"/>
+    <subtitle>灿若星辰，逸群之才</subtitle>
+    <logo>https://chenyijssj.top/images/avatar.png</logo>
+    <icon>https://chenyijssj.top/favicon.ico</icon>
+    <rights>All rights reserved 2025, 辰逸的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[停更通知]]></title>
+        <id>https://chenyijssj.top/post/ting-geng-tong-zhi/</id>
+        <link href="https://chenyijssj.top/post/ting-geng-tong-zhi/">
+        </link>
+        <updated>2025-08-13T14:23:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>独立游戏，终焉挽歌暂缓；服务器正常运行<br>
+博客还有bug先不修，LCSIP明天更新<br>
+muselink电子名片私了，bento还没调教好<br>
+给自己挖个坑，寒假出Gridea教程</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>独立游戏，终焉挽歌暂缓；服务器正常运行<br>
+博客还有bug先不修，LCSIP明天更新<br>
+muselink电子名片私了，bento还没调教好<br>
+给自己挖个坑，寒假出Gridea教程</p>
+<!-- more -->
+<p>回学校当牲口去了，15号开学<br>
+<img src="https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/08/20250813142239246.png" alt="" loading="lazy"></p>
+<blockquote>
+<h5 id="ps本文原创转载请标明出处">PS：本文原创，转载请标明出处</h5>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cuiey 团队项目状态更新 - 2025年8月7日]]></title>
+        <id>https://chenyijssj.top/post/cuiey-tuan-dui-xiang-mu-zhuang-tai-geng-xin-2025-nian-8-yue-7-ri/</id>
+        <link href="https://chenyijssj.top/post/cuiey-tuan-dui-xiang-mu-zhuang-tai-geng-xin-2025-nian-8-yue-7-ri/">
+        </link>
+        <updated>2025-08-07T14:37:27.000Z</updated>
+        <summary type="html"><![CDATA[<p>服务器稳定运行，整合包持续制作，独立游戏暂缓</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>服务器稳定运行，整合包持续制作，独立游戏暂缓</p>
+<!-- more -->
+<p>各位关注 Cuiey 团队的朋友们，大家好。</p>
+<p>我是辰逸。本次更新旨在向大家简要通报团队各项目的最新状态。感谢各位的持续关注与支持。</p>
+<p>当前项目状态概览：</p>
+<ul>
+<li>游戏服务器 (均稳定运行中)：</li>
+</ul>
+<p>CS:GO 服务器： 持续在线，运行稳定。欢迎玩家随时加入体验。</p>
+<p>Minecraft 1.21 纯净生存服： 自开放以来运行平稳，社区氛围良好。持续开放中，欢迎新老玩家加入（加入方式见社群公告）。</p>
+<p>Minecraft 1.20.1 Mod 服： 已完成主要 Mod 整合与测试</p>
+<ul>
+<li>Minecraft 整合包 - 《终焉挽歌》：</li>
+</ul>
+<p>项目状态： 积极开发中。</p>
+<p>当前重点： 核心任务流程的细化和实现、关键模组的深度魔改与平衡调整、初期世界场景的构建。</p>
+<p>团队正集中精力推进开发，力求呈现一个剧情引人入胜、玩法契合主题的整合包。</p>
+<ul>
+<li>独立游戏项目 (未命名 - Godot, 类死亡细胞)：</li>
+</ul>
+<p>项目状态： 暂停开发。</p>
+<p>原因： 项目推进面临关键资源瓶颈，主要缺乏专业的美术与音效设计人员。在当前团队资源配置下，难以保证该项目的开发质量与效率。</p>
+<p>未来： 该项目并非取消。团队将优先保证现有服务器运营和《终焉挽歌》整合包的开发。待条件成熟（如找到合适的美术音效合作伙伴或资源），将重新评估并可能重启开发。</p>
+<ul>
+<li>总结与后续：</li>
+</ul>
+<p>团队当前的重心是 确保所有游戏服务器的稳定运营 和 全力推进《终焉挽歌》整合包的开发。</p>
+<p>独立游戏项目因美术音效资源限制而暂缓，是出于对项目质量的审慎考虑。</p>
+<p>我们将继续通过博客和社群发布关于服务器维护、整合包开发进展以及其他重要动态。</p>
+<p>再次感谢大家的理解与支持。我们致力于在现有资源下，为大家提供稳定的游戏服务和完成《终焉挽歌》的创作。</p>
+<p>主要问题还是人手与精力，我们会在保证质量的前提下尽量赶工，敬请期待</p>
+<p>Cuiey QQ官方频道：https://pd.qq.com/s/3nvkvk3ab<br>
+<img src="https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/07/20250722062548576.png" alt="" loading="lazy"></p>
+<p>服务器，整合包，独立游戏的开发和维护都是需要资金的，如果可以，<a href="https://chenyijssj.top/post/zanzhu/">求帮助</a><br>
+或者联系我：chenyijssj@qq.com</p>
+<blockquote>
+<p>辰逸 / Cuiey Team<br>
+于一个（假装）充满干劲的深夜</p>
+</blockquote>
+<blockquote>
+<h5 id="ps本文原创转载请标明出处">PS：本文原创，转载请标明出处</h5>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cuiey团队近期动态与项目进度更新 - 2025年7月27日]]></title>
+        <id>https://chenyijssj.top/post/cuiey-tuan-dui-jin-qi-dong-tai-yu-xiang-mu-jin-du-geng-xin/</id>
+        <link href="https://chenyijssj.top/post/cuiey-tuan-dui-jin-qi-dong-tai-yu-xiang-mu-jin-du-geng-xin/">
+        </link>
+        <updated>2025-07-26T16:09:39.000Z</updated>
+        <summary type="html"><![CDATA[<p>各位关注 Cuiey 团队的朋友们，大家好。</p>
+<p>我是辰逸。距离上次团队回归的公告已有一段时日，在此向大家简要汇报一下我们目前的进展和后续计划。感谢各位一直以来的耐心等待。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>各位关注 Cuiey 团队的朋友们，大家好。</p>
+<p>我是辰逸。距离上次团队回归的公告已有一段时日，在此向大家简要汇报一下我们目前的进展和后续计划。感谢各位一直以来的耐心等待。</p>
+<!-- more -->
+<p>当前项目进度：</p>
+<ol>
+<li>游戏服务器：</li>
+</ol>
+<ul>
+<li>
+<p>CS:GO 服务器： 停服调试中。后续将根据玩家反馈持续优化规则和体验。服务器连接信息请关注后续通知或社群公告。</p>
+</li>
+<li>
+<p>Minecraft 1.21 纯净生存服： 已开放</p>
+</li>
+<li>
+<p>Minecraft 1.20.1 Mod 服： Mod 选型与兼容性测试是当前重点。我们正在筛选和测试一组能提供丰富、平衡且长期可玩性的模组组合，搭建工作同步进行中。</p>
+</li>
+<li>
+<p>经典 CS 服务器 (起源/1.6)： 仍在评估技术可行性与玩家需求。如有明确进展会及时告知。</p>
+</li>
+</ul>
+<ol start="2">
+<li>Minecraft 整合包 - 《终焉挽歌》：</li>
+</ol>
+<p>项目处于积极开发阶段。</p>
+<p>目前核心工作集中在 世界观与主线剧情的细化、关键任务链的设计 以及 基础模组包的整合与初步魔改 上。</p>
+<p>我们致力于打造一个以叙事驱动、探索为核心体验的整合包。更多具体信息将在开发进入更成熟阶段后逐步分享。</p>
+<ol start="3">
+<li>独立游戏项目：</li>
+</ol>
+<p>项目处于 早期原型开发阶段。</p>
+<p>使用 Godot 引擎 开发，是一款 受《死亡细胞》启发的 2D 动作 Roguelite 地下城游戏。</p>
+<p>当前聚焦于核心战斗机制的原型验证和基础关卡结构的搭建。</p>
+<p>游戏名称尚未最终确定。未来计划通过 软柠科技 的发行服务，在 Steam 和 Epic Games Store 平台发布。这是一个长期项目，我们会持续投入开发。</p>
+<p>关于更新延迟：</p>
+<p>过去一段时间，个人事务（包括一次主力开发电脑的硬件故障及维修）在一定程度上影响了整体进度节奏，对此表示歉意。目前问题已解决，工作正回归正轨。</p>
+<p>后续计划：</p>
+<p>优先确保 Minecraft 1.21 纯净服 的测试与开放。</p>
+<p>持续推进 《终焉挽歌》整合包 的开发工作，适时发布阶段性开发日志。</p>
+<p>稳步进行 独立游戏 的原型开发。</p>
+<p>团队 社群（待定） 的筹建也在计划中，以便更及时地发布信息和与大家交流。</p>
+<p>我们理解大家对新内容的期待。团队会以更务实的态度推进各项计划，并在有实质性进展或可公开的信息时，第一时间通过博客进行更新。感谢大家的理解与支持。</p>
+<p>Cuiey QQ官方频道：https://pd.qq.com/s/3nvkvk3ab<br>
+<img src="https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/07/20250722062548576.png" alt="" loading="lazy"></p>
+<p>服务器，整合包，独立游戏的开发和维护都是需要资金的，如果可以，<a href="https://chenyijssj.top/post/zanzhu/">求帮助</a><br>
+或者联系我：chenyijssj@qq.com</p>
+<blockquote>
+<p>辰逸 / Cuiey Team<br>
+于一个（假装）充满干劲的深夜</p>
+</blockquote>
+<blockquote>
+<h5 id="ps本文原创转载请标明出处">PS：本文原创，转载请标明出处</h5>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【诈尸式更新】Cuiey の 秽土转生！这次带着服务器，剧情整合包和...新饼？杀回来了！]]></title>
+        <id>https://chenyijssj.top/post/cuiey-chong-jian/</id>
+        <link href="https://chenyijssj.top/post/cuiey-chong-jian/">
+        </link>
+        <updated>2025-07-21T15:53:01.000Z</updated>
+        <summary type="html"><![CDATA[<p>是的，你没看错，那个鸽了又鸽的团队，它又双叒叕重建了！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>是的，你没看错，那个鸽了又鸽的团队，它又双叒叕重建了！</p>
+<!-- more -->
+<p>我是辰逸，对，就是那个之前信誓旦旦说要更新博客、分享知识，结果转头就鸽到地老天荒的家伙。上次那篇REMCBBS的“余温”仿佛还在昨天（虽然可能已经凉透了），没想到吧？今天带来的不是技术干货，而是… Cuiey 团队原地复活通告 Plus 新饼预告！ 🎉</p>
+<p>没错，经过一番“艰苦卓绝”（主要是思想斗争）的努力，以及几个核心成员“贼心不死”的执念，Cuiey 团队正式宣告重建并回归啦！ 这次我们决定把脸皮练厚一点，步子迈实一点（希望别再扯着…），专注于我们真正热爱且擅长的领域：搭建好玩的游戏服务器 &amp; 制作有深度的 Minecraft 整合包！</p>
+<p>那么，这次秽土转生，我们带了啥“土特产”回来？（以及一个刚和好的面团...）</p>
+<ul>
+<li>游戏服务器：开搞！是兄弟就来砍… 哦不，来玩！</li>
+</ul>
+<p>🔫 CS:GO 竞技/娱乐服： 经典永不褪色！想找回枪林弹雨的激情，或者和朋友们来场欢乐的社区模式？我们的 CSGO 服务器已经就绪，欢迎来战！（技术细节、IP啥的后续公布，别急！）</p>
+<p>⛏️ Minecraft 1.21 纯净生存服： 喜欢原汁原味、白手起家的生存挑战？想在最新的 1.21 版本里和小伙伴一起探索、建造、发展？纯净服满足你！从撸树开始，书写你们的方块传奇吧。</p>
+<p>🧪 Minecraft 1.20.1 Mod 服： 觉得原版不够刺激？想体验科技魔法自动化，或者更多维度更多怪物？我们的 Mod 服（具体 Mod 列表待定/逐步公开）正在搭建中，目标是打造一个玩法丰富、长期耐玩的模组生存世界！</p>
+<p>🔜 未来可能的“文艺复兴”： 嘿，老玩家们，是不是对《反恐精英：起源》(CS: Source) 或者古董级的 CS 1.6 还有那么一丝怀念？我们听到了！ 如果呼声够高（以及技术可行性没问题），我们非常有兴趣把这些“上古神器”级别的服务器也开起来！情怀，有时候就是战斗力！你更想玩哪个“老古董”？</p>
+<ul>
+<li>Minecraft 整合包：这次，我们讲个故事！</li>
+</ul>
+<p>除了服务器，我们的另一个重头戏是 Minecraft 整合包开发！</p>
+<p>隆重（但低调）预告一下我们的首个剧情向作品：</p>
+<p>🎭 整合包名称：《终焉挽歌》</p>
+<p>🎯 核心定位：剧情驱动 &amp; 深度探索</p>
+<p>这不仅仅是一个堆砌模组的包。《终焉挽歌》旨在为你呈现一个关于 Minecraft 世界“起源”的宏大故事。 你将从懵懂中醒来，逐步揭开世界沉寂背后的秘密，面对未知的挑战，体验一段沉浸式的方块世界史诗旅程。</p>
+<p>它将包含： 精心设计的任务线引导、契合主题的模组选择与魔改、独特的世界观构建、以及… 嗯，不能再剧透了！（保持神秘感很重要！）</p>
+<p>它的目标： 让你在生存、探索、解谜的过程中，自然而然地被故事吸引，思考这个世界的过去、现在与未来。</p>
+<p>剧情大纲：<br>
+<img src="https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/07/20250722064729508.png" alt="" loading="lazy"></p>
+<p>关于《终焉挽歌》的详细信息，目前就透露这么多。 我们正在紧锣密鼓地开发中，会适时放出更多“解馋”的预告和开发日志。敬请期待！(可以先脑补一下~)</p>
+<ul>
+<li>🎮 独立游戏项目：新的“大饼”它来了！（画饼预警！）</li>
+</ul>
+<p>是的！你没看错！在搞服务器和整合包的同时，我们（主要是某个头铁的家伙）还悄悄启动了一个独立游戏项目！</p>
+<p>🛠️ 引擎： 使用 GODOT 引擎 开发！（开源力量大！）</p>
+<p>🎮 类型 &amp; 灵感： 这是一款 快节奏的 2D 动作 Roguelite 地下城游戏！核心灵感来源于我们非常喜爱的 《死亡细胞》 (Dead Cells)，目标是打造爽快的战斗、丰富的Build和不断变化的关卡体验。</p>
+<p>📛 名字？ 呃... 这个嘛... 名字还在激烈的脑暴和争吵（划掉）讨论中！等我们定下来一个不那么难听的再告诉大家！</p>
+<p>🚀 进度 &amp; 发行： 项目目前处于 比较早期的开发阶段。关于发行，我们初步计划未来通过 软柠科技的代发行业务 上架 Steam 和 Epic Games Store。路还很长，饼还很生！ 这个项目会是一个长期的投入，我们会持续耕耘，也欢迎有共同爱好的朋友未来关注它的成长（或者夭折？呸呸呸！）。</p>
+<p>写在最后（这次能信吗？饼是不是画太大了？）</p>
+<p>我知道，“狼来了”的故事讲多了，信用值可能已经跌停板了。🥹 现在不仅狼来了，还带了张新画的大饼！但这次真的不一样（这句话是不是有点耳熟？）！团队重组后，目标更聚焦，热情也更足（至少现在是！）。服务器和整合包都是实打实已经在推进的事情。至于独立游戏... 嗯，它代表了我们一个更大的梦想和更长线的挑战。</p>
+<p>我们不敢打包票说永不鸽（毕竟生活充满意外，独立游戏更是深坑），但这次回归，是带着明确的规划、持续运营服务器的决心、以及探索新可能的勇气来的！ 我们会努力提供稳定的服务器环境、有趣的MC整合包内容，并 一步一个脚印地 推进那个独立游戏项目。</p>
+<p>所以，朋友们：</p>
+<p>曾经和我们一起战斗过的老战友们，欢迎归队！</p>
+<p>对CS经典、MC生存/模组/剧情、独立游戏开发感兴趣的伙伴们，热烈欢迎！</p>
+<p>路过看热闹的朋友们… 也欢迎点个收藏关注一下？万一我们这次服务器稳了、整合包火了、独立游戏... 做出来了呢？😂（梦想总是要有的！）</p>
+<p>服务器地址、整合包发布页、独立游戏（万一有）开发日志、后续更新动态… 都会第一时间在这个博客以及我们的频道发布。 记得常回来看看，别再错过我们的“诈尸”和（可能的）“画饼”了！</p>
+<p>Cuiey QQ官方频道：https://pd.qq.com/s/3nvkvk3ab<br>
+<img src="https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/07/20250722062548576.png" alt="" loading="lazy"></p>
+<p>服务器，整合包，独立游戏的开发和维护都是需要资金的，如果可以，<a href="https://chenyijssj.top/post/zanzhu/">求帮助</a><br>
+或者联系我：chenyijssj@qq.com</p>
+<blockquote>
+<p>辰逸 / Cuiey Team<br>
+于一个（假装）充满干劲的深夜</p>
+</blockquote>
+<blockquote>
+<h5 id="ps本文原创转载请标明出处">PS：本文原创，转载请标明出处</h5>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么很长时间没有更新]]></title>
+        <id>https://chenyijssj.top/post/wei-shi-me-hen-chang-shi-jian-mei-you-geng-xin/</id>
+        <link href="https://chenyijssj.top/post/wei-shi-me-hen-chang-shi-jian-mei-you-geng-xin/">
+        </link>
+        <updated>2025-07-15T05:31:33.000Z</updated>
+        <summary type="html"><![CDATA[<p>有人问我说为什么两个月了依旧未更新，我冤啊🫥</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>有人问我说为什么两个月了依旧未更新，我冤啊🫥</p>
+<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/07/20250715054446107.png" alt="" loading="lazy"></figure>
+<p>距离上次更新已经过去两个月的时间，有人问我干嘛去了，UP是个初中生啊[捂脸]</p>
+<p>其实更新这篇Macwk的时候我就已经百日誓师了，把精力大都放在了学习上吧，好在最后如愿以偿考上重点了</p>
+<p>这两个月也有很多事儿，跟大家分享一下吧</p>
+<p>首先我博客的板块，比如说HLTV的新闻，网站推荐，软件分享，CSGO整合包都要停一段时间了（因为我个人的精力问题）</p>
+<p>然后就是很久以前就应该说的一件事儿，REmcbbs私了，你现在可以看到我的博客上关于它的文章已经有声明了，原因呢可以理解为赞助商跑路，团队解散什么的，这里就不过多赘述了<br>
+然后原REmcbbs团队叫璀熠Cuiey，我对这个团队还是有感情的，所以打算重建团队</p>
+<p>目前新Cuiey的业务呢是游戏服务器，有MC纯净服，MCMOD生存，CSGO这三个板块，以后呢可能会增加CS1.6和CSS服务器</p>
+<p>除了游戏服务器，还有我的独立游戏，经过10086天（bushi），我的独立游戏终于和我的全栈学习一起提上了日程<br>
+新游戏呢是GODOT引擎制作的地下城游戏，灵感来源于死亡细胞<br>
+目前名字还未想好，steam和epic发行估计还得靠软柠科技的代发行业务</p>
+<p>说起软柠科技，他们公司也发生了很多变化，例如旧论坛devskyr的ui重构（虽然还是有少量bug），新业务框架的实施，也是祝愿他们越来越好吧<br>
+有一点要吐槽的就是我的软柠账号被误封了[捂脸]，到现在还没解开</p>
+<p>剩下的也就没什么说的了，Cuiey的服务器宣传我会单独开一篇文章，至于REmcbbs，以后可能会重搞，但一定不是现在</p>
+<p>也是高中牲了好吧😎</p>
+<blockquote>
+<h5 id="ps本文原创转载请标明出处">PS：本文原创，转载请标明出处</h5>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【网站推荐】Mac用户自己的Free Online Store——MacWk]]></title>
+        <id>https://chenyijssj.top/post/MacWk/</id>
+        <link href="https://chenyijssj.top/post/MacWk/">
+        </link>
+        <updated>2025-05-10T17:45:18.000Z</updated>
+        <summary type="html"><![CDATA[<h5 id="macwk是国内知名的精品mac软件下载站专注于提供免费-无广告-安全的macos应用资源-网站界面简洁分类清晰涵盖设计-开发-影音等全类别所有软件均经过严格测试确保与正版体验一致-支持历史版本下载及常见安装问题解答适合mac新手和进阶用户">「MacWK」是国内知名的精品Mac软件下载站，专注于提供免费、无广告、安全的macOS应用资源。网站界面简洁，分类清晰（涵盖设计、开发、影音等全类别），所有软件均经过严格测试，确保与正版体验一致。支持历史版本下载及常见安装问题解答，适合Mac新手和进阶用户。</h5>
+]]></summary>
+        <content type="html"><![CDATA[<h5 id="macwk是国内知名的精品mac软件下载站专注于提供免费-无广告-安全的macos应用资源-网站界面简洁分类清晰涵盖设计-开发-影音等全类别所有软件均经过严格测试确保与正版体验一致-支持历史版本下载及常见安装问题解答适合mac新手和进阶用户">「MacWK」是国内知名的精品Mac软件下载站，专注于提供免费、无广告、安全的macOS应用资源。网站界面简洁，分类清晰（涵盖设计、开发、影音等全类别），所有软件均经过严格测试，确保与正版体验一致。支持历史版本下载及常见安装问题解答，适合Mac新手和进阶用户。</h5>
+<!-- more -->
+<p>亮点：</p>
+<ul>
+<li>纯净体验：无弹窗广告，无需强制登录或关注。</li>
+<li>资源质量：精选高频需求软件（如Adobe全家桶、Final Cut Pro等），更新及时 。</li>
+<li>下载便捷：提供夸克云盘等国内友好下载方式 。</li>
+<li>教程支持：附带安装指南和系统兼容性提示，降低使用门槛 。<br>
+官网：<a href="https://macwk.com.cn/">https://macwk.com.cn/</a></li>
+</ul>
+<h3 id="同类替代推荐若macwk无法访问时">同类替代推荐（若MacWK无法访问时）</h3>
+<p><a href="https://xclient.info">Xclient</a><br>
+老牌中文站，资源丰富，支持直链下载 。</p>
+<p><a href="https://appstorrent.ru">Appstorrent</a><br>
+国际资源站，更新快，需搭配翻译工具使用 。</p>
+<p><a href="https://foxirj.com">佛系软件</a><br>
+小众但界面美观，提供多网盘下载 。</p>
+<blockquote>
+<p>注：部分网站需注意版权风险，建议支持正版。</p>
+<h5 id="ps本文原创转载请标明出处">PS：本文原创，转载请标明出处</h5>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【LCSIP】乐简云CSGO优化整合包]]></title>
+        <id>https://chenyijssj.top/post/LCSIP/</id>
+        <link href="https://chenyijssj.top/post/LCSIP/">
+        </link>
+        <updated>2025-05-10T05:13:47.000Z</updated>
+        <summary type="html"><![CDATA[<h3 id="使用声明">【使用声明】</h3>
+<p>本整合包<a href="https://github.com/chenyijssj/LCSIP-Lejian-CSGO-Integration-Package">Github仓库</a><br>
+拟真BOT by 幼儿园萌匪<br>
+帧数优化以及练枪地图均为网络资源<br>
+侵联删<br>
+禁止将本整合包用于任何形式的商业用途，后果自负！！！</p>
+]]></summary>
+        <content type="html"><![CDATA[<h3 id="使用声明">【使用声明】</h3>
+<p>本整合包<a href="https://github.com/chenyijssj/LCSIP-Lejian-CSGO-Integration-Package">Github仓库</a><br>
+拟真BOT by 幼儿园萌匪<br>
+帧数优化以及练枪地图均为网络资源<br>
+侵联删<br>
+禁止将本整合包用于任何形式的商业用途，后果自负！！！</p>
+<!-- more -->
+<h3 id="使用说明">【使用说明】</h3>
+<p>对原版CSGOdemo添加了拟真BOT，CS库存显示（原版demo已不支持显示饰品），帧数优化和常用练枪地图整合<br>
+基于原版的基础上对各种难度bot的智商以及枪法进行真人化[加强]<br>
+专家难度人机-----模拟还原csgo2021年斯德哥尔摩major职业选手<br>
+困难及以下难度---模拟还原真实玩家水平<br>
+当您在进入游戏前选择专家难度，则游戏内的所有bot全部为major选手<br>
+选择困难难度，则游戏内为随机分配的各种难度bot<br>
+选择简单与中等难度，则游戏内bot必定不会出现major选手[除非手动添加]</p>
+<p>加入练枪地图指令：（游戏主界面控制台输入）<br>
+<code>map aimtraindriving_v3</code><br>
+<code>map aim_botz</code><br>
+<code>map awptraining</code><br>
+<code>map config_generator</code><br>
+<code>map csgohub_prac</code><br>
+<code>map jump_throw_practice</code><br>
+<code>map recoil_master</code><br>
+<code>map yprac_360_benchmark</code></p>
+<h3 id="下载">【下载】</h3>
+<p><a href="https://github.com/chenyijssj/LCSIP-Lejian-CSGO-Integration-Package/releases/tag/LCSIP">GitHub发布页</a><br>
+<a href="https://gitee.com/chenyijssj/LCSIP-Lejian-CSGO-Integration-Package/releases">Gitee发布页</a></p>
+<h3 id="安装">【安装】</h3>
+<p>打开steam，在“库-CS2-管理-属性-测试版-参与测试”中，选择<code>csgo_legacy - Legacy Version of CS:GO</code>测试，等待下载完成（7L也可使用）<br>
+在“库-CS2-管理-通用-启动选项”的输入框中输入<code>-high -highpriority CPU +cl_interp_ratio 1 -nojoy -tickrate 128 -novid -console -low</code>（优化启动项）<br>
+解压后将压缩包内<code>csgo</code>文件夹，直接复制替换到游戏根目录文件夹内，重启游戏后即可正常使用</p>
+<h3 id="已知问题">【已知问题】</h3>
+<p>1.饰品展示有时有玄学问题<br>
+解决方法：更新到最新版本再覆盖<br>
+2.每次大切换界面到主菜单时都会显示CSGO已不受支持和整合包文件弹窗<br>
+解决方法：点击“关闭”无视即可</p>
+<blockquote>
+<h5 id="下载链接失效请及时联系我chenyijssjqqcom">下载链接失效请及时联系我：chenyijssj@qq.com</h5>
+<h5 id="ps本文原创转载请标明出处">PS：本文原创，转载请标明出处</h5>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【CS快讯】猎鹰和绿龙就京介的转会达成一致]]></title>
+        <id>https://chenyijssj.top/post/media-falcons-and-spirit-agree-on-kyousuke-transfer/</id>
+        <link href="https://chenyijssj.top/post/media-falcons-and-spirit-agree-on-kyousuke-transfer/">
+        </link>
+        <updated>2025-05-10T04:18:24.000Z</updated>
+        <summary type="html"><![CDATA[<p>据报道，这位俄罗斯明星选手即将转会至沙特电竞俱乐部。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>据报道，这位俄罗斯明星选手即将转会至沙特电竞俱乐部。</p>
+<!-- more -->
+<p>据Sheep Esports和Guillaume 'neL' Rathier报道， Falcons已与Spirit达成协议，将引进 ​​17 岁的天才选手Maxim &quot;⁠kyousuke⁠&quot; Lukin 。此前，Dust2.dk 曾报道称，这家沙特俱乐部对这位俄罗斯选手感兴趣。</p>
+<p>此次转会将在奥斯汀major后完成，据 neL 报道，Emil “Magisk” Reif将为Spirit Academy明星让路。</p>
+<p>自从donk⁠崛起以来，kyousuke已成为《反恐精英》圈中最炙手可热的新秀。他在《反恐精英》职业比赛的第一年平均评分为 1.29，并获得了 2024 年 HLTV 前 20 名选手的六项“大胆预测”，其中包括Ilya &quot;⁠m0NESY⁠&quot; Osipov和Mathieu &quot;⁠ZywOo⁠&quot; Herbaut。</p>
+<p>本周早些时候，京介 助力Spirit Academy在莫斯科举行的BetBoom LanDaLan 2赛事中夺冠，并创下1.57的赛事最高评分。在此次赛事结束后，这支年轻的俄罗斯队伍在全球VRS排名中升至第32位。</p>
+<p>今年二月，在首届 BetBoom LanDaLan 赛事上，京介接受 HLTV 采访时表示，他希望“年底前”晋级一级联赛。但随着Spirit的大门似乎关闭，这位 17 岁的年轻人别无选择，只能另谋高就。</p>
+<p>Falcons不惜重金提升阵容。上个月，这家沙特俱乐部完成了从G2签下m0NESY的签约，这位俄罗斯狙击手帮助战队在 IEM 墨尔本站和 BLAST Rivals 站连续两年闯入总决赛。</p>
+<p>猎鹰新阵：<br>
+波斯尼亚和黑塞哥维那 Nikola “⁠NiKo⁠” Kovač<br>
+北马其顿 Damjan “⁠kyxsan⁠” Stoilkovski<br>
+丹麦 René “⁠TeSeS⁠” Madsen<br>
+俄罗斯 Ilya “⁠m0NESY⁠” Osipov<br>
+俄罗斯 Maxim “⁠kyousuke⁠” Lukin</p>
+<p>丹麦 丹尼“zonic”索伦森（教练）</p>
+<p>俄罗斯 Abdul &quot;⁠degster⁠&quot; Gasanov (替补)<br>
+丹麦 Emil &quot;⁠Magisk⁠&quot; Reif (替补)</p>
+<blockquote>
+<blockquote>
+<p><strong>不是绿龙你是没见过钱吗？？？你不训练到处接商业广告我忍了，猎鹰给钱你就这么把京介卖了？？？建议以后专门给一线战队培养明星选手盈利好吧，懒得喷，瘤子不踢反而卖自家明星选手，没donk你就是个dank1ng，这TM神人管理层和G2有得一拼</strong><br>
+<img src="https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/05/20250513125907520.jpg" alt="" loading="lazy"></p>
+</blockquote>
+<p>转载自<a href="https://www.hltv.org/news/41646/media-falcons-and-spirit-agree-on-kyousuke-transfer">HLTV</a></p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【CS快讯】s1mple 在奥斯汀major前租借加盟 FaZe]]></title>
+        <id>https://chenyijssj.top/post/s1mple-joins-faze-on-loan-ahead-of-austin-major/</id>
+        <link href="https://chenyijssj.top/post/s1mple-joins-faze-on-loan-ahead-of-austin-major/">
+        </link>
+        <updated>2025-05-05T05:30:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>这位乌克兰巨星正在为银河战舰架设防空导弹</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这位乌克兰巨星正在为银河战舰架设防空导弹</p>
+<!-- more -->
+<p>FaZe宣布已与Natus Vincere的Oleksandr &quot;⁠s1mple⁠&quot; Kostyliev签订租借协议，租期至奥斯汀major结束。这位三届年度最佳球员将取代Helvijs &quot;⁠broky⁠&quot; Saukants，后者已被调至替补席，FaZe 希望扭转今年令人失望的开局。</p>
+<p>s1mple自上海major欧洲区预选赛（RMR）以来一直未能参赛，他当时以租借身份效力于猎鹰队。这份合同原本预计持续到 2024 年底，但由于猎鹰队未能晋级特锦赛而被迫提前终止。</p>
+<p>这是s1mple第二次租借加盟沙特战队，此前他曾在 2024 年初的 BLAST Premier 春季对决中为该战队效力。</p>
+<p>这位乌克兰超级巨星自2023年10月退出比赛以来，就一直没有进入Natus Vincere的首发阵容。他于2022年底与这家乌克兰俱乐部签订了三年合约，现在距离合约期限只剩六个多月了。</p>
+<p>自2025年伊始，s1mple的未来就一直是人们猜测的焦点。4月初，他告诉主播Evelone，他“收到了一些邀请，某种程度上是这样”，并补充说，随着他与NAVI的合同即将到期，他的身价正在下降。同月晚些时候，他在Instagram上发文称，他“每天都在努力打CS，在健身房里苦练”。</p>
+<p>在FaZe中，s1mple将与 2016 年他的Liquid队友Jonathan &quot;⁠EliGE⁠&quot; Jablonowski重聚。该队在当年举办的两场 Major 比赛中表现出色，在 MLG 哥伦布站获得前四名，在 ESL One 科隆站获得第二名。</p>
+<figure data-type="image" tabindex="1"><img src="https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/05/20250511053817401.jpg" alt="EliGE 和 s1mple 亮相 2016 年 ESL One 科隆站" loading="lazy"></figure>
+<p>s1mple加入了一支未能达到休赛期EliGE高调加盟所引发的轰动效应的队伍。这位北美明星被引进来接替Robin &quot;⁠ropz⁠&quot; Kool，后者作为Vitality强势阵容的一员，在周日赢得了五连冠。</p>
+<p>在PGL克卢日-纳波卡站获得第四名，在PGL布加勒斯特站获得第三名，是FaZe在今年前四个月仅有的亮点。在IEM墨尔本站，他们未能晋级季后赛，在BLAST Rivals站中仅获得五六名，在这场比赛中，他们既没能从Falcons队手中拿下一张地图，也没能从MOUZ队手中拿下一张地图，不得不拼尽全力才击败FlyQuest队。</p>
+<p>s1mple将在 5 月 19 日开始的 IEM 达拉斯站上首次亮相FaZe。这将是该队在奥斯汀特锦赛之前的最后一站，他们将在奥斯汀特锦赛上开始第二阶段的征程。</p>
+<p>FaZe目前拥有：</p>
+<p>丹麦 Finn “⁠karrigan⁠” Andersen<br>
+挪威 Håvard “⁠rain⁠” Nygaard<br>
+美国 Jonathan “⁠EliGE⁠” Jablonowski<br>
+斯洛伐克 David “⁠frozen⁠” Čerňanský<br>
+乌克兰 Oleksandr “⁠s1mple⁠” Kostyliev（租借）</p>
+<p>波兰 菲利普·“NEO”·库布斯基（教练）</p>
+<p>拉脱维亚 Helvijs “⁠broky⁠” Saukants（替补）</p>
+<hr>
+<blockquote>
+<blockquote>
+<p>太好了是会飞的猪🐖🐖🐖<br>
+<img src="https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/05/20250511053816541.jpg" alt="" loading="lazy"></p>
+</blockquote>
+<p>本文转自<a href="https://www.hltv.org/news/41615/s1mple-joins-faze-on-loan-ahead-of-austin-major">HLTV</a></p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【音乐软件】LX music（洛雪音乐）2025最新版使用教程]]></title>
+        <id>https://chenyijssj.top/post/lx-music/</id>
+        <link href="https://chenyijssj.top/post/lx-music/">
+        </link>
+        <updated>2025-04-30T05:07:57.000Z</updated>
+        <summary type="html"><![CDATA[<p>因为收到腾讯投诉要求停止提供软件内置的连接到他们平台的在线播放及下载服务，所以LX music2023年10月19日停止了内置的音乐服务，但2025的今天依旧有办法使用</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>因为收到腾讯投诉要求停止提供软件内置的连接到他们平台的在线播放及下载服务，所以LX music2023年10月19日停止了内置的音乐服务，但2025的今天依旧有办法使用</p>
+<!-- more -->
+<h3 id="lx-music全网音乐一网打尽">🎵 <strong>LX Music：全网音乐，一网打尽！</strong></h3>
+<ul>
+<li><strong>无广告、无会员，纯净听歌体验！</strong><br>
+LX Music（洛雪音乐）是一款<strong>开源免费</strong>的音乐播放器，整合全网主流平台资源，<strong>无广告弹窗</strong>，告别会员付费，让你畅享音乐自由！</li>
+</ul>
+<p>⚡ <strong>全平台支持，多端同步！</strong></p>
+<ul>
+<li>支持 <strong>Windows/macOS/Linux/Android</strong>（暂不支持iOS），跨设备歌单同步，办公娱乐无缝切换！</li>
+</ul>
+<p>🔍 <strong>智能搜索，一网打尽！</strong></p>
+<ul>
+<li>聚合 <strong>QQ音乐、网易云、酷狗、酷我、咪咕</strong> 等平台资源，冷门歌曲也能轻松找到，支持<strong>无损音质（FLAC/APE）下载</strong>！</li>
+</ul>
+<p>🎨 <strong>个性化定制，颜值在线！</strong></p>
+<ul>
+<li><strong>多主题皮肤</strong>：暗黑/亮色模式自由切换</li>
+<li><strong>桌面歌词</strong>：悬浮歌词+多语言翻译</li>
+<li><strong>EQ音效调节</strong>：定制你的专属听感</li>
+</ul>
+<p>📥 <strong>核心功能一览</strong></p>
+<ul>
+<li><strong>无损下载</strong>——320Kbps/FLAC音质任选</li>
+<li><strong>歌单导入</strong>——一键导入网易云/酷狗歌单</li>
+<li><strong>离线播放</strong>——缓存歌曲，无网也能听</li>
+<li><strong>排行榜同步</strong>——热歌榜、抖音榜实时更新</li>
+</ul>
+<hr>
+<p>首先下载压缩包：<br>
+<a href="https://www.123684.com/s/pXHdjv-Eind3">123主链接</a><br>
+<a href="https://www.123912.com/s/pXHdjv-Eind3">123副链接</a><br>
+<a href="https://chenyijssj.lanzoul.com/ijKEF2vd9vxa">蓝凑云链接</a></p>
+<p>下载好后解压（说解压要收费，圈钱的去看<a href="https://chenyijssj.github.io/post/bandizip/">这篇</a>）</p>
+<p>解压好后打开安装包，无脑下一步<br>
+<img src="https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/05/20250511052115319.png" alt="" loading="lazy"></p>
+<p>在“设置-通用设置自定义源”中点击自定义源管理<br>
+<img src="https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/05/20250511052116964.png" alt="" loading="lazy"></p>
+<p>点击在线导入<br>
+<img src="https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/05/20250511052117342.png" alt="" loading="lazy"></p>
+<p>选择压缩包“音源”文件夹中的文件（两个文件分别导入）<br>
+<img src="https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/05/20250511052114249.png" alt="" loading="lazy"></p>
+<p>优先推荐选择野花音源<br>
+<img src="https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/05/20250511052113438.png" alt="" loading="lazy"></p>
+<p>以上步骤完成后即可开始使用LX music</p>
+<p>如果觉得太麻烦我这里也有平替：<a href="http://fonger.top/">方格音乐</a>（缺点是有广告，音源不全）</p>
+<blockquote>
+<h5 id="下载链接失效请及时联系我chenyijssjqqcom">下载链接失效请及时联系我：chenyijssj@qq.com</h5>
+</blockquote>
+<blockquote>
+<h5 id="ps本文原创转载请标明出处">PS：本文原创，转载请标明出处</h5>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【解压软件】Bandizip6.29官方最后一个免费无广版本]]></title>
+        <id>https://chenyijssj.top/post/bandizip/</id>
+        <link href="https://chenyijssj.top/post/bandizip/">
+        </link>
+        <updated>2025-04-29T13:32:36.000Z</updated>
+        <summary type="html"><![CDATA[<h3 id="bandizip极速解压纯净体验">🚀 <strong>Bandizip：极速解压，纯净体验！</strong></h3>
+]]></summary>
+        <content type="html"><![CDATA[<h3 id="bandizip极速解压纯净体验">🚀 <strong>Bandizip：极速解压，纯净体验！</strong></h3>
+<!-- more -->
+<p>✂️ <strong>告别广告弹窗，享受纯粹高效！</strong><br>
+Bandizip 是您文件解压缩的终极选择，<strong>无广告、无捆绑</strong>，让您专注于工作与娱乐，不被烦人的弹窗打扰！</p>
+<p>⚡ <strong>极速解压，快人一步！</strong><br>
+采用<strong>多核并行解压技术</strong>，速度提升高达 6 倍！无论是 ZIP、RAR、7Z 还是 ISO，30+ 格式全支持，轻松应对各种压缩需求。</p>
+<p>🔒 <strong>安全加密，隐私无忧！</strong><br>
+支持 <strong>AES-256 高强度加密</strong>，保护您的敏感文件，防止泄露。还可创建<strong>分卷压缩包</strong>，大文件传输更灵活！</p>
+<p>🖱️ <strong>智能右键，高效操作！</strong><br>
+集成资源管理器右键菜单，<strong>拖拽解压、快速预览</strong>，无需打开软件即可查看压缩包内容，效率翻倍！</p>
+<p>🌍 <strong>跨平台兼容，稳定流畅！</strong><br>
+完美适配 <strong>Windows 7~11</strong>，界面简洁友好，<strong>中文优化</strong>，无乱码困扰，小白也能轻松上手！</p>
+<p>💡 <strong>为什么选择 Bandizip？</strong></p>
+<ol>
+<li><strong>无广告</strong>——纯净体验，告别骚扰！</li>
+<li><strong>超快解压</strong>——多核加速，效率爆表！</li>
+<li><strong>全格式支持</strong>——30+ 压缩格式，一网打尽！</li>
+<li><strong>安全加密</strong>——AES-256，守护隐私！</li>
+</ol>
+<p>📥 <strong>立即下载</strong>：<br>
+<a href="https://www.bandisoft.com/bandizip/old/6/">Bandizip6.29官网下载地址</a>（打开后向下滑找到“下载bandizip6.**”按钮并点击）<br>
+<a href="https://www.123684.com/s/pXHdjv-sqnd3">123云盘高速连接</a><br>
+<a href="https://www.123912.com/s/pXHdjv-sqnd3">123高速备用</a><br>
+<a href="https://chenyijssj.lanzoul.com/ipsLe2vd8wob">蓝凑云高速</a> 密码:8edu</p>
+<p>🔥 <strong>你的高效解压神器，从此开始！</strong></p>
+<blockquote>
+<h5 id="下载链接失效请及时联系我chenyijssjqqcom">下载链接失效请及时联系我：chenyijssj@qq.com</h5>
+</blockquote>
+<blockquote>
+<h5 id="ps本文原创转载请标明出处">PS：本文原创，转载请标明出处</h5>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gridea主题自定义配置无法修改问题]]></title>
+        <id>https://chenyijssj.top/post/gridea-zhu-ti-pei-zhi-wen-ti/</id>
+        <link href="https://chenyijssj.top/post/gridea-zhu-ti-pei-zhi-wen-ti/">
+        </link>
+        <updated>2025-04-27T13:53:10.000Z</updated>
+        <summary type="html"><![CDATA[<p>没错，又是我，又是Gridea，又是bug，不知道大家在用breek或者别的主题的时候有没有发现主题自定义配置无法更改了，这是因为0.93的的文件存储格式发生了改变，但他不会自动更新文件存储格式，也就是说0.93在读取0.92的文件格式（好像是取消了个什么<code>cutput</code>文件夹），就算你回到0.92也会因为0.93更改了部分文件而无法读取（辣鸡），这篇是解决方法</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>没错，又是我，又是Gridea，又是bug，不知道大家在用breek或者别的主题的时候有没有发现主题自定义配置无法更改了，这是因为0.93的的文件存储格式发生了改变，但他不会自动更新文件存储格式，也就是说0.93在读取0.92的文件格式（好像是取消了个什么<code>cutput</code>文件夹），就算你回到0.92也会因为0.93更改了部分文件而无法读取（辣鸡），这篇是解决方法</p>
+<!-- more -->
+<p>首先确定你使用的是0.93或以上版本的客户端</p>
+<ol>
+<li>备份你站点源文件路径下的<code>posts</code>文件夹（这里是你写的文章文件）</li>
+<li>不要备份你站点源文件路径下的<code>themes</code>文件夹以及你的旧主题文件！！！（如果有自行对主题进行修改的话就备份）</li>
+<li>如果有自己写<code>404</code>或者<code>README.md</code>自述文件的把<code>static</code>文件夹也一起备份了（没有就不用管）</li>
+<li>打开Gridea客户端，将<code>远程</code>页面中的所有配置项全部备份</li>
+<li>关闭Gridea客户端，将站点源文件路径文件夹直接删掉</li>
+<li>再次打开Gridea客户端，打开站点源文件路径文件夹，里面会生成新的文件</li>
+<li>从你所使用的主题的Github仓库下载全新的主题文件并覆盖（用的是自带的主题不用下载，如果有自行对主题进行修改的话将第2步中备份的文件覆盖即可）</li>
+<li>将备份的<code>posts</code>（或与<code>static</code>一起）覆盖到站点源文件路径文件夹中</li>
+<li>重新配置你的客户端（第4步中备份的信息）就会发现主题自定义配置已经可以更改了</li>
+</ol>
+<blockquote>
+<h5 id="ps本文原创转载请标明出处">PS：本文原创，转载请标明出处</h5>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小蜜蜂夺得大满贯，ropz成为历史上第二位双圈大满贯得主]]></title>
+        <id>https://chenyijssj.top/post/xiao-mi-feng-duo-de-da-man-guan-ropz-cheng-wei-li-shi-shang-di-er-wei-shuang-quan-da-man-guan-de-zhu/</id>
+        <link href="https://chenyijssj.top/post/xiao-mi-feng-duo-de-da-man-guan-ropz-cheng-wei-li-shi-shang-di-er-wei-shuang-quan-da-man-guan-de-zhu/">
+        </link>
+        <updated>2025-04-26T17:50:51.000Z</updated>
+        <summary type="html"><![CDATA[<h3 id="vitality-队在澳大利亚经过三次加时赛的艰苦角逐最终以-3-2-的比分获胜保持了-21-场比赛以来的连胜纪录">Vitality 队在澳大利亚经过三次加时赛的艰苦角逐，最终以 3-2 的比分获胜，保持了 21 场比赛以来的连胜纪录。</h3>
+]]></summary>
+        <content type="html"><![CDATA[<h3 id="vitality-队在澳大利亚经过三次加时赛的艰苦角逐最终以-3-2-的比分获胜保持了-21-场比赛以来的连胜纪录">Vitality 队在澳大利亚经过三次加时赛的艰苦角逐，最终以 3-2 的比分获胜，保持了 21 场比赛以来的连胜纪录。</h3>
+<!-- more -->
+<p>Vitality在 IEM 墨尔本总决赛中以 3-2击败Falcons，在澳大利亚举起奖杯，结束了 ESL 大满贯第 5 季的征程。此前，他们在赢得 2024 年 IEM 科隆站、2025 年 IEM 卡托维兹站、ESL Pro League 第 21 季和 2025 年 IEM 墨尔本站后，获得了这一殊荣。</p>
+<p>另一方面，猎鹰队在赢得 PGL 布加勒斯特站后，错失了两连胜的佳绩——当时他们的主力仍是Abdul &quot;⁠degster⁠&quot; Gasanov——并且必须等待Ilya &quot;⁠m0NESY⁠&quot; Osipov的 AWP 加冕为王。</p>
+<p>这两支队伍此前曾在 B 组上组决赛中相遇，争夺季后赛的种子席位，尽管Vitality在两张地图上都占据优势，在第一张地图 Mirage 上进行了加时赛，在 Inferno 上以 13-8 获胜，但Falcons仍表现出了一些勇气。</p>
+<p>总决赛重赛在Inferno上拉开帷幕， Vitality再次占据上风，因为Falcons在首局比赛中完全不敌Mathieu &quot;⁠ZywOo⁠&quot; Herbaut等人。Vitality在几个关键回合和比分胶着的回合中都占据上风，但m0NESY在这场13-2的大败中，交出了职业生涯第五差的地图，丝毫没有受到任何威胁。</p>
+<p>系列赛在 Dust2 进行，Vitality在 CT 方取得了 4-0 的强势开局，对于这支状态火热的队伍来说一切看起来都像往常一样，但是一些强有力的 A 击、积极的长传和短传取得了回报，Falcons赢得了接下来八轮中的七轮，半场领先两分。</p>
+<p>加时赛中双方比分依然胶着，但猎鹰队在Damjan &quot;⁠kyxsan⁠&quot; Stoilkovski和René &quot;⁠TeSeS⁠&quot; Madsen的强力支持下迅速发力，最终在加时赛中以 4-0 干净利落地获胜，Vitality 队以 16-12 的比分在墨尔本首次输掉地图比赛。</p>
+<p>回到他们的一个选择上，Vitality想要证明 Dust2 的失利不会扭转决赛的局势，但比赛从一开始就并非一帆风顺。Falcons在Train 的 CT 方以 5-1 开局，但Dan &quot;⁠apEX⁠&quot; Madesclaire和他的队友在半场结束时将领先优势缩小到 2 比 2。</p>
+<p>在连续丢掉 3vs5 的比赛后，apEX以 8-9 落后， 他要求队员们拿出更多表现，而Vitality挺身而出，赢得了一场完整的 eco 比赛，扭转了地图的局势，最终以 13-9 获胜，而Falcons则没有从这次打击中恢复过来。</p>
+<p>上半场的逆转和下半场的强势开局很大程度上要归功于William &quot;⁠mezii⁠&quot; Merriman的英勇表现，但m0NESY为猎鹰队提供了强大的防守，最终以 13-10 获胜，并将系列赛拖入决胜局。</p>
+<p>Falcons牢牢控制了 Nuke 的 CT 方，让Vitality在上半场只赢了三局，对手的挫败感开始增加。</p>
+<p>apEX和他的队员们赢得了关键的CT方手枪局。他们在加时赛中落败，并在猎鹰队以5-10的比分领先的情况下，耗费了第三次战术暂停。在逼近擂台线后，Robin &quot;⁠ropz⁠&quot; Kool在1vs1的局面下被kyxsan击败，猎鹰队凭借着时间所剩无几的假动作安放炸弹，并利用追击的爱沙尼亚选手过度伸展的优势，将比赛拖入赛点。</p>
+<p>此时，猎鹰队已是胜券在握，但小蜜蜂继续保持连胜，连赢六场，将比赛拖入加时赛，比赛以惊人的节奏进入加时赛，为罗德拉沃尔球场的季后赛平淡无奇画上了句号，两队你来我往，为澳大利亚观众带来了一场精彩的娱乐盛宴。</p>
+<p>关键时刻、烟雾弹化解和扣人心弦的回合一直进行到第三个加时赛的最后一轮，但最终，即使是TeSeS的精彩表现（他在决胜局中获得了超过 40 个 frag）也无法为他的团队决定胜负，Vitality最终以 22-20 打破僵局，确保了即时经典决赛的胜利。</p>
+<p>ZywOo在系列赛中的评分为 1.34，是决胜局中活力值的一个因素，他是决胜局地图上队伍中评分最高的选手，也是决赛和整个锦标赛中评分最高的选手，并被授予 HLTV MVP 奖章。</p>
+<hr>
+<figure data-type="image" tabindex="1"><img src="https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/05/20250511061155393.jpg" alt="" loading="lazy"></figure>
+<h3 id="vitality-凭借连续三场有资格参加的锦标赛的胜利赢得了令人垂涎的奖项">Vitality 凭借连续三场有资格参加的锦标赛的胜利赢得了令人垂涎的奖项。</h3>
+<p>Vitality凭借在 IEM 墨尔本站上对Falcons的史诗级胜利获得了令人垂涎的 ESL 大满贯，并赢得了 1,000,000 美元的奖金。</p>
+<p>Vitality 的大满贯赛事：</p>
+<p>德国IEM 科隆 2024 -欧洲Vitality<br>
+马耳他ESL 职业联赛 S20 - 欧洲Natus Vincere<br>
+巴西 IEM 里约 2024 - 欧洲Natus Vincere<br>
+波兰 IEM 卡托维兹 2025 -欧洲Vitality<br>
+瑞典ESL 职业联赛 S21-欧洲Vitality<br>
+澳大利亚IEM 墨尔本 2025 -欧洲Vitality</p>
+<p>Vitality夺得大满贯冠军后，成为自 2017 年推出该项荣誉以来第五支获此殊荣的球队，每次都有不同的球队赢得大满贯。</p>
+<p>英特尔大满贯赛获奖者：</p>
+<p>第 1 季 (2017-2018) - 丹麦Astralis<br>
+第 2 季 (2019-2019) - 北美Liquid<br>
+第 3 季 (2019-2021) - 俄罗斯Natus Vincere<br>
+第 4 季 (2021-2023) - 欧洲FaZe<br>
+第 5 季 (2023-2025) - 欧洲Vitality</p>
+<p>继拉塞尔“⁠Twistzz⁠”范杜尔肯 ( Russel “⁠Twistzz⁠” Van Dulken)于 2019 年随Liquid获得大满贯荣誉，并于 2023 年随 FaZe 获得大满贯荣誉之后，罗宾“⁠ropz⁠”库尔 (Robin &quot;⁠ropz⁠&quot; Kool) 成为第二位两次获得大满贯荣誉的选手，一次是在FaZe ，一次是在Vitality。</p>
+<hr>
+<blockquote>
+<blockquote>
+<p><strong>永远的决赛赛点，永远的软脚，看到choke不敢操作的外场，我就知道这把没了，你永远是这个毛病，这次的冠军近在咫尺，手握六个赛点你都把握不住，每次比赛过后我都以为你下次能干回来，每次都让人失望，或许软脚的你永远都不配major，真的对你失望了，虾哥。</strong><br>
+<img src="https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/05/20250513130031907.jpg" alt="" loading="lazy"></p>
+</blockquote>
+<p>本文转自<a href="https://www.hltv.org/news/41556/vitality-outlast-falcons-in-iem-melbourne-final-thriller-to-clinch-grand-slam">HLTV1</a> <a href="https://www.hltv.org/news/41557/vitality-become-fifth-esl-grand-slam-winners">HLTV2</a></p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gridea同步失败问题]]></title>
+        <id>https://chenyijssj.top/post/grdea-synchronized-mistake/</id>
+        <link href="https://chenyijssj.top/post/grdea-synchronized-mistake/">
+        </link>
+        <updated>2025-04-19T14:41:03.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="大家在使用gridea的时候会不会也出现同步失败的情况有的话看这里"><strong>大家在使用Gridea的时候会不会也出现同步失败的情况，有的话看这里！！！</strong></h2>
+]]></summary>
+        <content type="html"><![CDATA[<h2 id="大家在使用gridea的时候会不会也出现同步失败的情况有的话看这里"><strong>大家在使用Gridea的时候会不会也出现同步失败的情况，有的话看这里！！！</strong></h2>
+<!-- more -->
+<p><img src="https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/04/20250419145308453.jpeg" alt="同步错误" loading="lazy"><br>
+这种情况多半是系统代理导致的，可以试试以下的方法</p>
+<p>方法一：<br>
+梯子（魔法就不教了）</p>
+<p>方法二：</p>
+<ol>
+<li>
+<p>关闭加速器，steam++，clash之类的网络代理软件（包括翻墙软件和VPN）</p>
+</li>
+<li>
+<p>win+R输入cmd进去命令指令行</p>
+</li>
+<li>
+<p>分别复制粘贴运行以下命令</p>
+</li>
+</ol>
+<p><code>npm config delete proxy</code></p>
+<p><code>npm config delete https-proxy</code></p>
+<p><code>netsh winhttp reset proxy</code></p>
+<p>方法三：<br>
+用<a href="https://steampp.net/">steam++</a>，<a href="https://www.huorong.cn/">火绒</a>内置的火绒断网修复或其它工具重置host文件（或手动删除host文件）</p>
+<p>重启电脑后99%的同步失败问题就都能解决了</p>
+<p>当然也可以试试<a href="https://blog.csdn.net/qq_45394976/article/details/127678924">这位大佬的方法</a>（只不过可能会很麻烦）</p>
+<blockquote>
+<h5 id="ps本文原创转载请标明出处">PS：本文原创，转载请标明出处</h5>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markdown——高效率标记语言常用教程]]></title>
+        <id>https://chenyijssj.top/post/Markdown/</id>
+        <link href="https://chenyijssj.top/post/Markdown/">
+        </link>
+        <updated>2025-03-22T06:59:38.000Z</updated>
+        <summary type="html"><![CDATA[<p>在学习Gridea的时候，我也被迫了解了Markdown这一标志性语言，发现了一些文档里没有的东西和注意事项，所以写一篇教程型文章，希望对大家有帮助</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>在学习Gridea的时候，我也被迫了解了Markdown这一标志性语言，发现了一些文档里没有的东西和注意事项，所以写一篇教程型文章，希望对大家有帮助</p>
+<!-- more -->
+<p>多数人可能都习惯于使用微软的Office Word来写东西，它的功能确实强大，有丰富的排版功能。但是它也有很多的缺点：</p>
+<ol>
+<li>
+<p>Office Word是商业付费软件，你电脑中装的是正版吗？</p>
+</li>
+<li>
+<p>Word文档非常臃肿，一个空白文档也要占25K左右。</p>
+</li>
+<li>
+<p>兼容性不好，你有打不开docx格式文档的经历吗？</p>
+</li>
+<li>
+<p>安装文件大、启动慢…</p>
+</li>
+</ol>
+<p>把Word文档发给一个没有安装Office Word人会很尴尬，Linux上虽然有Open Office，Windows也可以使用免费的WPS Word，但多少会有显示和兼容上的问题。</p>
+<p>“鱼”和“熊掌”怎么兼得呢？</p>
+<p>大名鼎鼎的「互联网之子」亚伦·斯沃茨（封面图片）和美国著名博客作者约翰·格鲁伯（John Gruber）出手帮我们解决了这个痛点，他们合作发明了Markdown。</p>
+<p>Aaron在自己博客上写这样一段话：</p>
+<blockquote>
+<p>For months I’ve been working with John Gruber on a new project. The idea was to make writing simple web pages, and especially weblog entries, as easy as writing an email, by allowing you to use much the same syntax and converting it automatically into HTML.</p>
+</blockquote>
+<p>他说正在与John Gruber合作一个新项目，想法是让人人都能写简单的网页，把写博客这件事变得像写邮件一样简单，你可以用一些简单的标记控制文字的版式，并自动转化成HTML页面。</p>
+<p>这个就是Markdown的由来。</p>
+<h2 id="markdown难学吗">Markdown难学吗？</h2>
+<p>首先，Markdown 既不是工具也不是程序语言，而是一种轻量级的「标记语言」，千万不要被「标记」、「语言」吓到，Markdown的语法十分简单，常用的标记符号不超过十个，用于日常写作记录绰绰有余，不到半小时就能完全掌握。</p>
+<p>就是这十个不到的标记符号，却能让人优雅地沉浸式记录，专注内容而不是纠结排版，达到「心中无尘，码字入神」的境界。</p>
+<p>Markdown写作是一种纯文本写作，你打开Windows的记事本就可以写，或者其他任何一款编辑器都可以。当然你也可以选择一些专业的Markdown编辑器，这样可以实时预览排版效果。</p>
+<h2 id="markdown常用基础语法">Markdown常用基础语法</h2>
+<p>先想想我们一般写作时候需要用到什么样的排版？</p>
+<p>无非就是标题、引用、强调（加粗、斜体、下划线）、插入链接、插入图片、列表（有序和无序列表），甚至连表格都很少用。</p>
+<h2 id="标题语法">标题语法</h2>
+<p>Markdown一共支持6个级别大小的标题（对应于HTML语法里的h1~h6），写法很简单，就是在文字前空一格加上#号就行，几个#号就是几级标题，大小由大到小。</p>
+<h2 id="引用语法">引用语法</h2>
+<p>如果你想引用一段文字，那就使用大于号&gt;</p>
+<h2 id="标记语法">标记语法</h2>
+<h3 id="粗体">粗体</h3>
+<p>如果你想加粗一段文字，只需要在文字前后加个两个*号</p>
+<h3 id="斜体">斜体</h3>
+<p>如果你想让一段文字倾斜，只需要在文字前后加一个*</p>
+<h3 id="插入链接">插入链接</h3>
+<p>如果你想把一段文字加上链接指向到某个网址，就把文字用中括号围起来[]，然后加上一个小括号()，小括号里填上网址即可。</p>
+<h3 id="插入图片">插入图片</h3>
+<p>插入图片的语法和插入链接很像，就是在前面加了一个叹号!，然后在小括号里加URL（注意：叹号是英文叹号）</p>
+<h2 id="列表">列表</h2>
+<p>列表分为有序列表和无序列表，什么是有序列表呢？就是1、2、3顺序排开。</p>
+<h3 id="有序列表">有序列表</h3>
+<p>语法如下，注意：数字后加点. 再空一格写内容。<br>
+<code>1. 把冰箱门打开</code><br>
+<code>2. 把大象放进去</code><br>
+<code>3. 关上冰箱门</code></p>
+<h3 id="无序列表">无序列表</h3>
+<p>无序列表只需要在文字前面加上减号-就行。（星号*或加号+也可以，看个人喜好，我比较喜欢用减号）<br>
+<code>- 把冰箱门打开</code><br>
+<code>- 把大象放进去</code><br>
+<code>- 关上冰箱门</code></p>
+<h3 id="代码">代码</h3>
+<p>代码需要将文本放在两个`之间（前后都要加）</p>
+<h2 id="其他标记">其他标记</h2>
+<h3 id="换行">换行</h3>
+<p>当你写大段文本分段的时候，只是回车换行是不行的，有些解释器出来的效果会让文字连在一起。<br>
+段落与段落之间需要强制空一行才能分段。</p>
+<h3 id="分割线">分割线</h3>
+<p>你可以在一行中使用三个以上的星号*或减号-来创建分割线（注意：行内不能有其他东西）</p>
+<h2 id="ps当你使用井号定义标题的时候记得在井号和文本之间加一个空格不然就会出现以下情况">PS：当你使用井号定义标题的时候，记得在井号和文本之间加一个空格，不然就会出现以下情况</h2>
+<p>#我是错误示范</p>
+<h2 id="更多">更多</h2>
+<p>如果想要深入了解或者想找一些不常用的语法，可以查阅<a href="https://markdown.com.cn/basic-syntax/">Markdown官网</a></p>
+<h2 id="图床的问题如何解决">图床的问题如何解决？</h2>
+<p>当你用上Markdown开始写作后，你可能会怀念Word的一个功能：粘贴插入图片。</p>
+<p>不少Markdown编辑器都是没有这个功能的，你需要把图片上传到某个地方然后用Markdown语法引用显示。</p>
+<p>这里推荐一个国内图床叫小存一下，是国内杭州软柠科技公司的产品，特点：</p>
+<ol>
+<li>提升您的网站资源显示速度</li>
+<li>数据下载更加快</li>
+<li>采用阿里云OSS保证速度及数据安全</li>
+<li>完全公益且免费[这是重点!!!]<br>
+官网：<a href="https://pan.devskyr.com/">小存一下</a></li>
+</ol>
+<p>如果你使用Mac电脑的话，推荐使用另一个神器，叫做“<a href="https://toolinbox.net/iPic/">图床神器iPic</a>”<br>
+这个APP会实时监测剪贴板里的图片，点击需要上传的图片后会自动生成Markdown引用代码，直接粘贴到编辑器里即可。</p>
+<h2 id="用markdown写微信公众号文章">用Markdown写微信公众号文章</h2>
+<p>目前微信公众号的编辑器是不支持Markdown语法的，那怎么办呢？</p>
+<p>有一款叫Markdown Here的插件可以解决这个问题（支持Chrome、Firefox、Safari）。</p>
+<p>官方网站：http://markdown-here.com/</p>
+<p>Markdown Here 的用法非常简单，直接在编辑器中用Markdown语法写完文章或粘贴进去写好的文章，然后鼠标右键选择「Markdown转换」，或者点击 Markdown Here 插件图标转换。（键盘默认快捷键是Ctrl + Alt + M）</p>
+<p>这时候你会发现文章排版全好了，amazing！</p>
+<p>Markdown Here默认使用的是Github风格的排版，如果你懂CSS的话甚至可以自己定义。</p>
+<p>Markdown Here可以用在任何支持可视化编辑器的地方，用来写电子邮件、写知乎专栏都可以。</p>
+<h2 id="总结">总结</h2>
+<p>Markdown是英年早逝的互联网天才Aaron带给我们的礼物，让大量人可以专心于内容的表达，减少排版上的费心费神。</p>
+<p>如果你还没用过，还等什么呢？</p>
+<blockquote>
+<h5 id="ps本文原创转载请标明出处">PS：本文原创，转载请标明出处</h5>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乐简云&朝阳云]]></title>
+        <id>https://chenyijssj.top/post/lejianyun/</id>
+        <link href="https://chenyijssj.top/post/lejianyun/">
+        </link>
+        <updated>2025-03-21T14:44:20.000Z</updated>
+        <summary type="html"><![CDATA[<p>不知道大家有没有开服困难症，我就有，不管博客还是论坛，用什么服务器，用什么模板，用什么系统都很让我头疼，毕竟很难找到适合真正自己的，网上有详细教程还好，没有教程纯新手就难受了，更何况有的教程还很麻烦，没人推荐，没人手把手教学，很多地方都不懂，在与朝阳云老板洽谈后，我们决定为大家提供一条龙服务器组及个性化服务</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>不知道大家有没有开服困难症，我就有，不管博客还是论坛，用什么服务器，用什么模板，用什么系统都很让我头疼，毕竟很难找到适合真正自己的，网上有详细教程还好，没有教程纯新手就难受了，更何况有的教程还很麻烦，没人推荐，没人手把手教学，很多地方都不懂，在与朝阳云老板洽谈后，我们决定为大家提供一条龙服务器组及个性化服务</p>
+<!-- more -->
+<p>朝阳云提供服务器，乐简云提供个性化服务，在洽谈以后我们决定所有乐简云代理期间的服务器一律八折（长期代理），个性化服务通通五折，同时一对一域名服务，制作论坛，博客（后台易上手，功能丰富），我们均可提供个性化服务以及一对一指导（包括但不限于WordPress，halo，gridea），cdn加速，web防御，以及waf绑定服务，赠送图床服务</p>
+<p>国内外高速服务器（香港，台湾网站免备案），保证不会出现类似某某欢高延迟，服务器供应不足情况等</p>
+<p><strong>订购方式：</strong><br>
+<strong>QQ群：1022288673</strong><br>
+<strong>邮箱：chenyijssj@qq.com</strong><br>
+<img src="https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/03/20250322063309986.jpg" alt="加入QQ群" loading="lazy"></p>
+<p>合作伙伴：</p>
+<h2 id="朝阳云"><a href="https://zhaoyangyun.com/">朝阳云</a></h2>
+<figure data-type="image" tabindex="1"><img src="https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/04/20250423121827897.png" alt="ZZY" loading="lazy"></figure>
+<blockquote>
+<h5 id="ps本文原创转载请标明出处">PS：本文原创，转载请标明出处</h5>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“园丁和花”]]></title>
+        <id>https://chenyijssj.top/post/Flower-story/</id>
+        <link href="https://chenyijssj.top/post/Flower-story/">
+        </link>
+        <updated>2025-03-07T14:52:55.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="一个用心的园丁细心的打理着他的花他爱花花也很爱他他甚至为花买了一个很好的花盆几条狗来照看她陪她去看星星但是突然有一天花看见了一个更好的园丁于是花便抛弃了园丁去找了那个园丁园丁很伤心开启了新的生活但是他仍然记得花每天会抽出一些时间打理花的花盆但是花却再也没有来过园丁说他并不喜欢狗更喜欢猫也不喜欢那个花盆也不喜欢看星星但是他爱花慢慢的他也觉得花不在那么重要开始去干一些自己喜欢的事他发现自己有了更多的时间慢慢的他变得开朗了起来他也不受花的影响了">一个用心的园丁，细心的打理着他的花，他爱花花也很爱他，他甚至为花买了一个很好的花盆，几条狗来照看她，陪她去看星星，但是突然有一天花看见了一个更好的园丁，于是花便抛弃了园丁，去找了那个园丁，园丁很伤心，开启了新的生活，但是他仍然记得花，每天会抽出一些时间打理花的花盆，但是花却再也没有来过，园丁说，他并不喜欢狗，更喜欢猫，也不喜欢那个花盆，也不喜欢看星星，但是他爱花，慢慢的他也觉得花不在那么重要，开始去干一些自己喜欢的事，他发现自己有了更多的时间，慢慢的他变得开朗了起来，他也不受花的影响了</h3>
+<blockquote>
+<h5 id="ps本文原创转载请标明出处">PS：本文原创，转载请标明出处</h5>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[REmcbbs，国内新一代Minecraft论坛]]></title>
+        <id>https://chenyijssj.top/post/remcbbs/</id>
+        <link href="https://chenyijssj.top/post/remcbbs/">
+        </link>
+        <updated>2024-09-13T11:57:14.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="此项目目前搁置敬请期待">此项目目前搁置，敬请期待</h1>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="此项目目前搁置敬请期待">此项目目前搁置，敬请期待</h1>
+<!-- more -->
+<p>mcbbs的闭站，我们服务器QQ群有个群友问我，能不能想办法把mcbbs的资源搞出来。emmm...我记得我在b站看见有个up从一个网站看见了mikufans</p>
+<p>经过我去某不存在的网站一番搜索，找到了这个</p>
+<p>http://web.archive.org/</p>
+<p>另一个不存在的网站（划掉）互联网档案馆，下文简称时光机</p>
+<blockquote>
+<p>互联网档案馆（Internet Archive）是非营利组织，定期收录并永久保存全球网站上可以抓取的信息，总部位于美国旧金山Richmond区Funston大道的一座宏伟的古希腊式教堂内。</p>
+</blockquote>
+<p>1996年成立之初的宗旨是保存数字化知识中的历史文化瑰宝，并向所有用户提供对这些知识的免费无差别访问，促进相关学术研究的发展。<br>
+来源——百度百科</p>
+<p>虽然mcbbs有一些很**的等级制度，但是不得不否认mcbbs有好多高质量原创内容，从下载mc到开服务器都有保姆级教程</p>
+<p>我就有了开一个mc开源社区的想法，re：有重新、恢复的意思，但是我们也不是把mcbbs整个搬过来，1是没时间和金钱，2是mcbbs这个b网站下个资源都说我没权限，我凭什么搬他（恼）</p>
+<p>我们呢，只是把高质量内容搬过来，其他没什么用的就先不搬了（资源：我免费了），但是我们也不能保证把所有高质量资源搬过来，因为有些有版权保护，还有就是上面说的没时间，其他的资源就由你们来完善吧</p>
+<p>最后，最重要的就是怎么加入我们社区了</p>
+<p>Cuiey QQ官方频道：https://pd.qq.com/s/3nvkvk3ab<br>
+<img src="https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/07/20250722062548576.png" alt="" loading="lazy"></p>
+<p>由于服务器维护也是要成本的，如果你有能力，可以为我们<a href="https://chenyijssj.top/post/zanzhu/">买一杯奶茶</a>，感谢</p>
+<blockquote>
+<h5 id="ps本文原创转载请标明出处">PS：本文原创，转载请标明出处</h5>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://chenyijssj.top/post/hello-gridea/</id>
+        <link href="https://chenyijssj.top/post/hello-gridea/">
+        </link>
+        <updated>2024-08-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>

@@ -221,7 +221,7 @@
 <meta name="description" content="仅供体验，请支持正版 正版购买：官方页面">
 <meta name="keywords" content="CannY，CannYX，chenyijssj">
 <link rel="canonical" href="https://chenyijssj.cn/post/MC-download/">
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"MC基岩版（国际版）全版本下载","url":"https://chenyijssj.cn/post/MC-download/","description":"仅供体验，请支持正版 正版购买：官方页面","image":"https://bee-reg-ab.imagency.cn/p/88b9e7433fe0a7435cf96262bd19fdb5.png","datePublished":"2025-08-14T15:02:24Z","dateModified":"2025-08-14T15:02:24Z","author":{"@type":"Person","name":"CannY's Blog"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/images/avatar.png"},"name":"CannY's Blog"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"MC基岩版（国际版）全版本下载","url":"https://chenyijssj.cn/post/MC-download/","description":"仅供体验，请支持正版 正版购买：官方页面","image":"https://bee-reg-ab.imagency.cn/p/88b9e7433fe0a7435cf96262bd19fdb5.png","datePublished":"2025-08-14T15:02:24+08:00","dateModified":"2026-08-08T14:48:10+08:00","author":{"@type":"Person","name":"CannY's Blog"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/images/avatar.png"},"name":"CannY's Blog"}}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","item":"https://chenyijssj.cn","name":"CannY's Blog","position":1},{"@type":"ListItem","item":"https://chenyijssj.cn/post/MC-download/","name":"MC基岩版（国际版）全版本下载","position":2}]}</script>
 <meta property="og:title" content="MC基岩版（国际版）全版本下载">
 <meta property="og:description" content="仅供体验，请支持正版 正版购买：官方页面">
@@ -270,20 +270,16 @@
   
     <section class="comment-section">
   <h2 class="comment-section__title">评论</h2>
-  <div id="gitalk-container"></div>
-  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-  <script>
-    var gitalk = new Gitalk({
-      clientID: 'Ov23licEDUszYvwvGBhI',
-      clientSecret: 'c5280551aba4c539552243b66c8683399499d1c3',
-      repo: 'chenyijssj.github.io',
-      owner: 'chenyijssj',
-      admin: ['chenyijssj'],
-      id: location.pathname,
-      distractionFreeMode: false
+  <div id="waline"></div>
+  <link rel="stylesheet" href="https://unpkg.com/@waline/client@v3/dist/waline.css">
+  <script type="module">
+    import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+    init({
+      el: '#waline',
+      serverURL: 'https://comment.chenyijssj.cn/',
+      dark: true,
+      locale: { placeholder: '说点什么吧…' }
     });
-    gitalk.render('gitalk-container');
   </script>
 </section>
 

@@ -284,20 +284,16 @@ Bandizip 是您文件解压缩的终极选择，<strong>无广告、无捆绑</s
   
     <section class="comment-section">
   <h2 class="comment-section__title">评论</h2>
-  <div id="gitalk-container"></div>
-  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-  <script>
-    var gitalk = new Gitalk({
-      clientID: 'Ov23licEDUszYvwvGBhI',
-      clientSecret: 'c5280551aba4c539552243b66c8683399499d1c3',
-      repo: 'chenyijssj.github.io',
-      owner: 'chenyijssj',
-      admin: ['chenyijssj'],
-      id: location.pathname,
-      distractionFreeMode: false
+  <div id="waline"></div>
+  <link rel="stylesheet" href="https://unpkg.com/@waline/client@v3/dist/waline.css">
+  <script type="module">
+    import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+    init({
+      el: '#waline',
+      serverURL: 'https://comment.chenyijssj.cn/',
+      dark: true,
+      locale: { placeholder: '说点什么吧…' }
     });
-    gitalk.render('gitalk-container');
   </script>
 </section>
 
